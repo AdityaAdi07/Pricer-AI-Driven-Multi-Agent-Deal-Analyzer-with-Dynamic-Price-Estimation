@@ -5,6 +5,12 @@ Dynamic Price Estimation and Autonomous Deal Intelligence
 Pricer is an automated multi agent AI framework that scans Indian ecommerce platforms, analyzes product descriptions, predicts INR prices using multiple AI systems, and identifies the strongest deal opportunities. It also stores historical deal data and displays results in a real time dashboard.
 
 ---
+<img width="1442" height="938" alt="Screenshot 2025-11-27 145227" src="https://github.com/user-attachments/assets/f5205035-9e90-4eaf-a396-543ccbdf453d" />
+<img width="1431" height="944" alt="Screenshot 2025-11-27 144935" src="https://github.com/user-attachments/assets/db174d86-2c51-423f-96ce-0002ba427ad4" />
+<img width="1915" height="976" alt="Screenshot 2025-11-27 144927" src="https://github.com/user-attachments/assets/f61bd7c3-b195-41ba-83ef-e988e3a29aee" />
+<img width="1918" height="975" alt="Screenshot 2025-11-27 144852" src="https://github.com/user-attachments/assets/4652f848-4166-447f-bbe5-d9ac5092d807" />
+<img width="1886" height="727" alt="Screenshot 2025-11-26 173527" src="https://github.com/user-attachments/assets/357f3cf4-7a1b-4a48-9982-83d06df0f01d" />
+
 
 ## Features
 
